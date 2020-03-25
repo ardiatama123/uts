@@ -1,0 +1,63 @@
+body {
+	background-color: white;
+	font-family: Tw cen mt;
+	font-family: 12px;
+
+}
+
+.main {
+	background-color: white;
+	margin: 0 auto;
+	border:1px  #000000;
+}
+
+.clear {
+	clear: both;
+	float: none;
+}
+
+
+.menu-atas {
+	background-color: white;
+	padding: 5px;
+	height: 50px;
+	width: 100%;
+	font-family: tw cen mt;
+	position: fixed;
+	z-index: 9999;
+}
+
+.menu-atas img {
+	float: left;
+}
+
+.menu-atas li {
+	padding: 20px;
+	display: inline;
+	float: right;
+}
+
+.menu-atas li a {
+	color: #333333;
+	font-size: 20px;
+	font-weight: bold;
+	margin-right: 20px;
+	margin-left: 5px;
+	text-decoration: none;
+	font-family: tw cen mt;
+}
+
+.menu-atas li a:hover {
+	color: #bf1b21;
+}
+
+.footer {
+	margin: 5px;
+	padding: 10px;
+	width: 100%;
+	height: 10%;
+	background-color: #DCDCDC; 
+} 
+
+
+
